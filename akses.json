@@ -10,11 +10,5 @@
     "password": "admin123",
     "durasi": "30d",
     "role": "admin"
-  },
-  {
-    "username": "users",
-    "password": "user",
-    "durasi": "25d",
-    "role": "user"
   }
 ]
